@@ -5,10 +5,10 @@
 
 </div>
 
-# Hi there 👋, I'm **WI FAI**  
+# I'm **WI FAI**  
 
 🎓 Beginner programmer, started my journey under the guidance of **Eng. Mohamed Abu Hadhoud**  
-📚 Completed more than **13 courses** on the *Programming Advice* roadmap  
+📚 Completed more than **13 courses** on the <a href= "https://programmingadvices.com/p/roadmap">*Programming Advice* roadmap</a>  
 💻 Already learned: **C++ , Data Structures**  
 🚀 Currently learning: **C# & .NET Platform**  
 
