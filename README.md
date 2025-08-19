@@ -2,13 +2,14 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
+![Profile Views](https://komarev.com/ghpvc/?username=WIFAI&style=flat-square&color=green&label=PROFILE+VIEWS)
 
 </div>
 
-# I'm **WI FAI**  
+<h1 align="center"><strong>WI FAI</strong></h1>
 
 🎓 Beginner programmer, started my journey under the guidance of **Eng. Mohamed Abu Hadhoud**  
-📚 Completed more than **13 courses** on the <a href= "https://programmingadvices.com/p/roadmap">*Programming Advice* roadmap</a>  
+📚 Completed more than **13 courses** on the <strong><span style="font-size:18px; color:black;">[Programming Advice](https://programmingadvice.scom)</span></strong> roadmap  
 💻 Already learned: **C++ , Data Structures**  
 🚀 Currently learning: **C# & .NET Platform**  
 
